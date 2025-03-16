@@ -32,5 +32,6 @@ The Power BI dashboard provides:
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Screenshot](dashboard_screenshot.png) <!-- Replace with your actual image file name -->
+![Dashboard Screenshot](DashBoard_snapshot.png)
+
 
